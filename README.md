@@ -72,16 +72,16 @@ If you are having trouble completing any part of this project, then please talk 
 
 The grade that a student receives on this assignment will have the following components:
 
-- **Concept [up to 10% of the project grade]**: Completed proposal document satisfying requirements of the proposal document specified above.
+- **Concept [up to 10% of the project grade]**: Completed concept development document satisfying requirements of the concept document specified above.
 
-- **Concept Pitch [up to 10% of the project grade]**: Completed status update document satisfying requirements of the status update document specified above.
+- **Concept Pitch [up to 10% of the project grade]**: Participation in the concept design peer review.
 
-- **Code Walkthrough [up to 5% of the project grade]**: Participation and
+- **Code Walkthrough [up to 5% of the project grade]**: Participation in the project code walkthrough.
 
-- ** Presentation [up to 10% of the project grade]**: Participation and
+- **Presentation [up to 10% of the project grade]**: Project presentation.
 
-- ** Implementation [up to 40% of the project grade]**: Participation and
+- **Implementation [up to 40% of the project grade]**: Project implementation. As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful source code, the use of effective source code comments and Git commit messages. 
 
-- ** Report [up to 25% of the lab grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and useful Java source code and Markdown report, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
+- **Report [up to 25% of the lab grade]**: As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the correct and descriptive Markdown report, that demonstrates mastery of the assignment's conceptual and technical understanding and knowledge.
 
 All grades for the assignments in this course will be reported through Canvas. Feedback on lab assignments will be provided through a student's GitHub repository using the comment in the "Feedback" pull request.
