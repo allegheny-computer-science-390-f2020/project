@@ -2,8 +2,10 @@
 
 ## Add Your Name(s)
 
-## Description of the Concept Idea
+## Description of the Concept 
 
-## Description of the Tasks that You Will Complete
+## Relevance and Motivation of the Concept
 
-## Detailed Plan for Your Team to Complete the Project
+## Description of the Tasks to Complete
+
+## Timeline to Complete the Project
